@@ -278,7 +278,7 @@
 #stars:after {
   content: "";
   position: absolute;
-  top: 2000px;
+  top: 20px;
   width: 1px;
   height: 1px;
   background: transparent;
