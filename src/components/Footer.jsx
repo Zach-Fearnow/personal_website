@@ -10,7 +10,7 @@ const Footer = () => {
       <a
         className="badge badge-dark"
         rel="noopener"
-        href="https://github.com/hashirshoaeb"
+        href="https://github.com/zach-fearnow"
         aria-label="My GitHub"
       >
         Zach Fearnow

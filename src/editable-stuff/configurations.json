@@ -10,43 +10,25 @@
     {
       "id": 0,
       "image": "fa-github", 
-      "url": "https://github.com/hashirshoaeb",
-      "style": "socialicons"
-    },
-    {
-      "id": 1,
-      "image": "fa-facebook",
-      "url": "https://www.facebook.com/hashirshoaeb",
-      "style": "socialicons"
-    },
-    {
-      "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/hashirshoaeb/",
+      "url": "https://github.com/zach-fearnow",
       "style": "socialicons"
     },
     {
       "id": 3,
       "image": "fa-linkedin",
-      "url": "https://www.linkedin.com/in/hashirshoaeb/",
-      "style": "socialicons"
-    },
-    {
-      "id": 4,
-      "image": "fa-twitter",
-      "url": "https://www.twitter.com/hashirshoaeb/",
+      "url": "https://www.linkedin.com/in/zach-fearnow-6959ab1b4/",
       "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
-  "showInstaProfilePic": true,
+  "showInstaProfilePic": false,
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "hashirshoaeb",
   "instaQuerry": "/?__a=1",
   "aboutDescription": "I'm an informatics student who has a passion for creating UI's and web applications. I spent summer 2020 interning at interview board a start up used to improve the remote interview process.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
-  "gitHubUsername": "hashirshoaeb",
+  "gitHubUsername": "zach-fearnow",
   "gitHubQuerry": "/repos?sort=updated&direction=desc",
   "projectsLength": 4,
   "showNavigationbar": true,
